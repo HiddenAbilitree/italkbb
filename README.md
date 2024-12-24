@@ -1,15 +1,2 @@
 # italkbb
-
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.38. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+A terrible way to semi-automate the retrieval of a 4-digit auth code through Italkbb's website.
